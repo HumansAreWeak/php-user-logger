@@ -1,0 +1,13 @@
+{
+    "name": "theorigin/logger",
+    "description": "Log user values and save them in the database... automatically!",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maik Steiger",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
