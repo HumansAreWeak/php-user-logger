@@ -2,11 +2,17 @@
     "name": "theorigin/logger",
     "description": "Log user values and save them in the database... automatically!",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "Maik Steiger",
             "role": "Developer"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Logger\\": "src/"
+        }
+    },
     "require": {}
 }
