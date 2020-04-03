@@ -8,6 +8,5 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
